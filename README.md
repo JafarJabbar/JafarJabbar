@@ -41,7 +41,7 @@
 
 ### IDE:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Jet brains" width="26px" src="https://logodix.com/logo/1773453.png" />
+<img align="left" alt="Jet brains" width="26px" src="https://software-sources.co.il/wp-content/uploads/2018/05/JetBrains_logo.png" />
 <br/>
 <br/>
 
