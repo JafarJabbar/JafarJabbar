@@ -5,11 +5,11 @@
 
 ## I'm a Full-stack web developer also amateur mobile developer!
 
-- 🔭 I’m currently working on a ARIS!
+- 🔭 I’m currently working on a ARIS!💻🖥🖱
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Keep alive!
-- ⚡ Fun fact: I love to read books and play games. 🎧
+- 🥅 2020 Goals: Keep alive!⛑
+- ⚡ Fun fact: I love to read books and play games. 🎮📕
 
 ### Connect with me:
 
