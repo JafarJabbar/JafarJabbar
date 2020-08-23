@@ -18,25 +18,6 @@
 [![Lumun](https://img.shields.io/website?label=Lumun&style=for-the-badge&url=https%3A%2F%2FCsr.lmh.az)](http://csr.lmh.az)
 [![SifarishNomre](https://img.shields.io/website?label=SifarishNomre&style=for-the-badge&url=https%3A%2F%2FSifarisnomre.az)](http://sifarisnomre.az)<br/>
 
-### About me:
-Dedicated web developer with 1 years of experience in backend and front-end development . Strong creative and analytical skills. Team player with an eye for detail. PHP, MySQL, JavaScript 
-
-#### LAMP development
-#### Working with command lines
-#### Writing modules
-#### Version control systems
-#### Continuous integration
-#### Responsive design
-#### Agile software development
-#### Front-end systems
-#### Debugging
-#### Server-side scripting
-#### Writing application code
-#### Object-oriented design
-
-<br/>
-<br/>
-
 ## Connect with me:
 
 [<img align="left" alt="JafarJabbar.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jafarjabbar.com)
