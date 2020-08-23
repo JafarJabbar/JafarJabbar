@@ -22,8 +22,8 @@ Dedicated web developer with 1 years of experience in backend and front-end deve
 ### Object-oriented design
 
 <br/>
----
 <br/>
+
 ## Connect with me:
 
 [<img align="left" alt="JafarJabbar.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jafarjabbar.com)
