@@ -21,7 +21,10 @@ Dedicated web developer with 1 years of experience in backend and front-end deve
 ### Writing application code
 ### Object-oriented design
 
-### Connect with me:
+<br/>
+---
+<br/>
+## Connect with me:
 
 [<img align="left" alt="JafarJabbar.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jafarjabbar.com)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/JafarJabbar6)
@@ -29,7 +32,7 @@ Dedicated web developer with 1 years of experience in backend and front-end deve
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/jafar.jabbarli.3)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/jfrjbbrl)
 
-### Summary
+## Summary
 
 - 🔭 I’m currently working on a ARIS!💻🖥🖱
 - 🌱 I’m currently learning everything 🤣
