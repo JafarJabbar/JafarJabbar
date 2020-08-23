@@ -15,7 +15,7 @@
 [![Run-pizza](https://img.shields.io/website?label=Run-pizza&style=for-the-badge&url=https%3A%2F%2FRun-pizza.ru)](https://run-pizza.ru)
 [![Beru Nomer](https://img.shields.io/website?label=BeruNomer&style=for-the-badge&url=https%3A%2F%2FBerunomer.ru)](https://berunomer.ru)
 [![Nevarneyox](https://img.shields.io/website?label=Nevarneyox&style=for-the-badge&url=https%3A%2F%2FNevarneyox.az)](https://nevarneyox.az)<br/>
-[![Lumun](https://img.shields.io/website?label=Lumun&style=for-the-badge&url=https%3A%2F%2FCsr.lmh.az)](http://csr.lmh.az)<
+[![Lumun](https://img.shields.io/website?label=Lumun&style=for-the-badge&url=https%3A%2F%2FCsr.lmh.az)](http://csr.lmh.az)
 [![SifarishNomre](https://img.shields.io/website?label=SifarishNomre&style=for-the-badge&url=https%3A%2F%2FSifarisnomre.az)](http://sifarisnomre.az)<br/>
 
 ### About me:
