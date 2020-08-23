@@ -8,18 +8,18 @@
 ### About me:
 Dedicated web developer with 1 years of experience in backend and front-end development . Strong creative and analytical skills. Team player with an eye for detail. PHP, MySQL, JavaScript 
 
-LAMP development
-Working with command lines
-Writing modules
-Version control systems
-Continuous integration
-Responsive design
-Agile software development
-Front-end systems
-Debugging
-Server-side scripting
-Writing application code
-Object-oriented design
+####LAMP development
+####Working with command lines
+####Writing modules
+####Version control systems
+####Continuous integration
+####Responsive design
+####Agile software development
+####Front-end systems
+####Debugging
+####Server-side scripting
+####Writing application code
+####Object-oriented design
 
 ### Connect with me:
 
@@ -29,15 +29,13 @@ Object-oriented design
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/jafar.jabbarli.3)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/jfrjbbrl)
 
-## Summary
+### Summary
 
 - 🔭 I’m currently working on a ARIS!💻🖥🖱
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Keep alive!⛑
 - ⚡ Fun fact: I love to read books and play games. 🎮📕
-
-
 <br />
 
 ### Software skills:
