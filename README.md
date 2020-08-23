@@ -36,7 +36,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Terminal" width="26px" src="https://plugins.jetbrains.com/files/12411/70430/icon/META-INF_pluginIcon.png" />
+<img align="left" alt="Terminal" width="26px" src="https://camo.githubusercontent.com/f2b4d552be7630a5799c6d89c4d985bce6ccbf6a/68747470733a2f2f7777772e636f64656d6174652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30322f666c75747465722d6c6f676f2d726f756e642e706e67" />
 <br/>
 <br/>
 
