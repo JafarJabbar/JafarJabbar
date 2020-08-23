@@ -8,18 +8,18 @@
 ### About me:
 Dedicated web developer with 1 years of experience in backend and front-end development . Strong creative and analytical skills. Team player with an eye for detail. PHP, MySQL, JavaScript 
 
-### LAMP development
-### Working with command lines
-### Writing modules
-### Version control systems
-### Continuous integration
-### Responsive design
-### Agile software development
-### Front-end systems
-### Debugging
-### Server-side scripting
-### Writing application code
-### Object-oriented design
+#### LAMP development
+#### Working with command lines
+#### Writing modules
+#### Version control systems
+#### Continuous integration
+#### Responsive design
+#### Agile software development
+#### Front-end systems
+#### Debugging
+#### Server-side scripting
+#### Writing application code
+#### Object-oriented design
 
 <br/>
 <br/>
