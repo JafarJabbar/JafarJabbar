@@ -6,17 +6,12 @@
 ## I'm a Full-stack web developer also amateur mobile developer!
 
 ## Projects:
-[![Zenit](https://img.shields.io/website?label=Zenit&style=for-the-badge&url=https%3A%2F%2FjZenit.az)](https://zenit.az)
-[![Makute](https://img.shields.io/website?label=Makute&style=for-the-badge&url=https%3A%2F%2FMakute.az)](https://makute.az)
+[![Developin](https://img.shields.io/website?label=Zenit&style=for-the-badge&url=https%3A%2F%2Fjdevelopin.az)](https://developin.az)
 [![Muracietler](https://img.shields.io/website?label=Muracietler&style=for-the-badge&url=https%3A%2F%2FMuracietler.banker.az)](http://muracietler.banker.az)<br/>
+[![NAM Azerbaijan](https://img.shields.io/website?label=Muracietler&style=for-the-badge&url=https%3A%2F%2Fnamazerbaijan.org)](http://namazerbaijan.org)<br/>
 [![ERG](https://img.shields.io/website?label=ERG&style=for-the-badge&url=https%3A%2F%2FErg.az)](https://erg.az)
 [![PLT](https://img.shields.io/website?label=PLT&style=for-the-badge&url=https%3A%2F%2FPlt.az)](https://plt.az)
 [![Ecofil](https://img.shields.io/website?label=Ecofil&style=for-the-badge&url=https%3A%2F%2FEcofil.az)](https://ecofil.az)<br/>
-[![Run-pizza](https://img.shields.io/website?label=Run-pizza&style=for-the-badge&url=https%3A%2F%2FRun-pizza.ru)](https://run-pizza.ru)
-[![Beru Nomer](https://img.shields.io/website?label=BeruNomer&style=for-the-badge&url=https%3A%2F%2FBerunomer.ru)](https://berunomer.ru)
-[![Nevarneyox](https://img.shields.io/website?label=Nevarneyox&style=for-the-badge&url=https%3A%2F%2FNevarneyox.az)](https://nevarneyox.az)<br/>
-[![Lumun](https://img.shields.io/website?label=Lumun&style=for-the-badge&url=https%3A%2F%2FCsr.lmh.az)](http://csr.lmh.az)
-[![SifarishNomre](https://img.shields.io/website?label=SifarishNomre&style=for-the-badge&url=https%3A%2F%2FSifarisnomre.az)](http://sifarisnomre.az)<br/>
 
 ## Connect with me:
 
@@ -29,7 +24,7 @@
 <br/>
 ## Summary
 
-- 🔭 I’m currently working on a ARIS!💻🖥🖱
+- 🔭 I’m currently working on a TREND!💻🖥🖱
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Keep alive!⛑
@@ -50,8 +45,6 @@
 <img align="left" alt="SQL" width="26px" src="https://www.jing.fm/clipimg/full/288-2885586_electric-bikes-socket-io-socket-io-logo-svg.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Terminal" width="26px" src="https://camo.githubusercontent.com/f2b4d552be7630a5799c6d89c4d985bce6ccbf6a/68747470733a2f2f7777772e636f64656d6174652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30322f666c75747465722d6c6f676f2d726f756e642e706e67" />
-<br/>
 <br/>
 
 ### IDE:
