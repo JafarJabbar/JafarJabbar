@@ -8,7 +8,7 @@
 ## Projects:
 [![Developin](https://img.shields.io/website?label=Developin&style=for-the-badge&url=https%3A%2F%2Fjdevelopin.az)](https://developin.az)
 [![Muracietler](https://img.shields.io/website?label=Muracietler&style=for-the-badge&url=https%3A%2F%2FMuracietler.banker.az)](http://muracietler.banker.az)<br/>
-[![NAM Azerbaijan](https://img.shields.io/website?label=NAM Azerbaijan&style=for-the-badge&url=https%3A%2F%2Fnamazerbaijan.org)](http://namazerbaijan.org)<br/>
+[![NAM Azerbaijan](https://img.shields.io/website?label=NAMAzerbaijan&style=for-the-badge&url=https%3A%2F%2Fnamazerbaijan.org)](http://namazerbaijan.org)<br/>
 [![ERG](https://img.shields.io/website?label=ERG&style=for-the-badge&url=https%3A%2F%2FErg.az)](https://erg.az)
 [![PLT](https://img.shields.io/website?label=PLT&style=for-the-badge&url=https%3A%2F%2FPlt.az)](https://plt.az)
 [![Ecofil](https://img.shields.io/website?label=Ecofil&style=for-the-badge&url=https%3A%2F%2FEcofil.az)](https://ecofil.az)<br/>
