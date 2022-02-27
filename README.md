@@ -11,7 +11,6 @@
 [![Fusion decking](https://img.shields.io/website?label=FusionDecking&style=for-the-badge&url=https%3A%2F%2Fjfusiondecking.com)](https://fusiondecking.com)
 [![Aral Group](https://img.shields.io/website?label=AralGroup&style=for-the-badge&url=https%3A%2F%2Fjaralgroupbaku.com)](https://aralgroupbaku.com)
 [![TCSGL](https://img.shields.io/website?label=TCSGL&style=for-the-badge&url=https%3A%2F%2Fjtcsgl.com)](https://tcsgl.com)
-[![TCSGL](https://img.shields.io/website?label=TCSGL&style=for-the-badge&url=https%3A%2F%2Fjtcsgl.com)](https://tcsgl.com)
 [![Lasertag](https://img.shields.io/website?label=Lasertag&style=for-the-badge&url=https%3A%2F%2Fjlasertag.az)](https://lasertag.az)
 [![Developin](https://img.shields.io/website?label=Developin&style=for-the-badge&url=https%3A%2F%2Fjdevelopin.az)](https://developin.az)
 [![NAM Azerbaijan](https://img.shields.io/website?label=NAMAzerbaijan&style=for-the-badge&url=https%3A%2F%2Fnamazerbaijan.org)](http://namazerbaijan.org)<br/>
