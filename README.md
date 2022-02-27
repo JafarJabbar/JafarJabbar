@@ -1,14 +1,22 @@
 ### Hi there, I'm Jafar 👋
 
-[![Website](https://img.shields.io/website?label=jafarjabbar.com&style=for-the-badge&url=https%3A%2F%2Fjafarjabbar.com)](https://jafarjabbar.com)
+[![Website](https://img.shields.io/website?label=jabbarli.dev&style=for-the-badge&url=https%3A%2F%2Fjabbarli.dev)](https://jabbarli.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JafarJabbar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JafarJabbar6)
 
 ## I'm a Full-stack web developer also amateur mobile developer!
 
 ## Projects:
+[![Iydə Parfumery](https://img.shields.io/website?label=IydeParfumery&style=for-the-badge&url=https%3A%2F%2Fjiyde.az)](https://iyde.az)
+[![GİMİEP](https://img.shields.io/website?label=GIMIEP&style=for-the-badge&url=https%3A%2F%2Fjgimiep.az)](https://gimiep.az)
+[![Fusion decking](https://img.shields.io/website?label=FusionDecking&style=for-the-badge&url=https%3A%2F%2Fjfusiondecking.com)](https://fusiondecking.com)
+[![Aral Group](https://img.shields.io/website?label=AralGroup&style=for-the-badge&url=https%3A%2F%2Fjaralgroupbaku.com)](https://aralgroupbaku.com)
+[![TCSGL](https://img.shields.io/website?label=TCSGL&style=for-the-badge&url=https%3A%2F%2Fjtcsgl.com)](https://tcsgl.com)
+[![TCSGL](https://img.shields.io/website?label=TCSGL&style=for-the-badge&url=https%3A%2F%2Fjtcsgl.com)](https://tcsgl.com)
+[![Lasertag](https://img.shields.io/website?label=Lasertag&style=for-the-badge&url=https%3A%2F%2Fjlasertag.az)](https://lasertag.az)
 [![Developin](https://img.shields.io/website?label=Developin&style=for-the-badge&url=https%3A%2F%2Fjdevelopin.az)](https://developin.az)
-[![Muracietler](https://img.shields.io/website?label=Muracietler&style=for-the-badge&url=https%3A%2F%2FMuracietler.banker.az)](http://muracietler.banker.az)<br/>
 [![NAM Azerbaijan](https://img.shields.io/website?label=NAMAzerbaijan&style=for-the-badge&url=https%3A%2F%2Fnamazerbaijan.org)](http://namazerbaijan.org)<br/>
+[![BakuCMS](https://img.shields.io/website?label=BakuCMS&style=for-the-badge&url=https%3A%2F%2Fjbakucms.com)](https://bakucms.com)
+[![Muracietler](https://img.shields.io/website?label=Muracietler&style=for-the-badge&url=https%3A%2F%2FMuracietler.banker.az)](http://muracietler.banker.az)<br/>
 [![ERG](https://img.shields.io/website?label=ERG&style=for-the-badge&url=https%3A%2F%2FErg.az)](https://erg.az)
 [![PLT](https://img.shields.io/website?label=PLT&style=for-the-badge&url=https%3A%2F%2FPlt.az)](https://plt.az)
 [![Ecofil](https://img.shields.io/website?label=Ecofil&style=for-the-badge&url=https%3A%2F%2FEcofil.az)](https://ecofil.az)<br/>
@@ -24,10 +32,9 @@
 <br/>
 ## Summary
 
-- 🔭 I’m currently working on a TREND!💻🖥🖱
+- 🔭 I’m currently working on a One studio!💻🖥🖱
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Keep alive!⛑
+- 🥅 2022 Goals: Keep alive!⛑
 - ⚡ Fun fact: I love to read books and play games. 🎮📕
 <br />
 
@@ -70,4 +77,5 @@
 ### VCS:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitLab" width="26px" src="https://about.gitlab.com/images/icons/logos/slp-logo.svg" />
 <img align="left" alt="BitBucket" width="26px" src="https://logodix.com/logo/911542.png" />
