@@ -7,6 +7,9 @@
 
 ## Projects:
 [![Iydə Parfumery](https://img.shields.io/website?label=IydeParfumery&style=for-the-badge&url=https%3A%2F%2Fjiyde.az)](https://iyde.az)
+[![AZDEMTTETI](https://img.shields.io/website?label=AZDEMTTETI&style=for-the-badge&url=https%3A%2F%2FjAZDEMTTETI.az)](https://AZDEMTTETI.az)
+[![Seul-Baku](https://img.shields.io/website?label=Seul-Baku&style=for-the-badge&url=https%3A%2F%2FjSeul-Baku)](https://seba.az)
+[![Toolino.com](https://img.shields.io/website?label=Toolino.com&style=for-the-badge&url=https%3A%2F%2FjToolino.com)](https://Toolino.com)
 [![GİMİEP](https://img.shields.io/website?label=GIMIEP&style=for-the-badge&url=https%3A%2F%2Fjgimiep.az)](https://gimiep.az)
 [![Fusion decking](https://img.shields.io/website?label=FusionDecking&style=for-the-badge&url=https%3A%2F%2Fjfusiondecking.com)](https://fusiondecking.com)
 [![Aral Group](https://img.shields.io/website?label=AralGroup&style=for-the-badge&url=https%3A%2F%2Fjaralgroupbaku.com)](https://aralgroupbaku.com)
@@ -51,12 +54,6 @@
 <img align="left" alt="SQL" width="26px" src="https://www.jing.fm/clipimg/full/288-2885586_electric-bikes-socket-io-socket-io-logo-svg.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br/>
-
-### IDE:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Jet brains" width="26px" src="https://software-sources.co.il/wp-content/uploads/2018/05/JetBrains_logo.png" />
-<br/>
 <br/>
 
 ### Databases:
