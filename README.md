@@ -1,6 +1,6 @@
 ### Hi there, I'm Jafar 👋
 
-[![Website](https://img.shields.io/website?label=jabbarli.dev&style=for-the-badge&url=https%3A%2F%2Fjabbarli.dev)](https://jabbarli.dev)
+[![Website](https://img.shields.io/website?label=jabbarli.me&style=for-the-badge&url=https%3A%2F%2Fjabbarli.me)](https://jabbarli.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JafarJabbar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JafarJabbar6)
 
 ## I'm a Full-stack web developer also amateur mobile developer!
